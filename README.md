@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Harshal Khadatare**
 
-### 🚀 Data Engineer | Full-Stack Developer | .NET & React Specialist
+### 🚀 Data Engineer | Full-Stack Developer | .NET Core & React 
 
 **📍 Pune, Maharashtra, India** | **🏢 Vision Infra Equipment India Solution Limited**
 
@@ -60,15 +60,6 @@ I am a **Data Engineer** and **Full-Stack Developer** focused on building scalab
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Optimization-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshroo45&show_icons=true&theme=radium" alt="Harshal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshroo45&theme=radium" alt="Harshal's GitHub Streak" width="48%" />
-</div>
 
 ---
 
