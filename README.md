@@ -1,16 +1,36 @@
-## Hi there 👋
+# Harshroo45's Profile
 
-<!--
-**Harshroo45/Harshroo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there!
+I'm [Your Name], a passionate developer with a love for coding and technology.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- JavaScript
+- Python
+- React
+- Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshroo45&show_icons=true&count_private=true&theme=radical)
+
+## 🔗 Links
+- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+
+## 📚 Education
+**Bachelor of Science in Computer Science**  
+Your University, 2022 - Present
+
+## 🌱 Current Learning
+I am currently learning more about cloud computing and DevOps practices.
+
+## 💬 Ask me about
+- Web development
+- Software engineering
+- Open source contributions
+
+## ⚡ Fun Fact
+I love hiking and exploring new places during my free time!
+
+---
+
+Feel free to connect with me!
