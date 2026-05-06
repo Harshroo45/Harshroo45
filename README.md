@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Harshal Khadatare**
+# Hi, I'm **Harshal Khadatare**
 
 ### 🚀 Data Engineer | Full-Stack Developer | .NET Core & React 
 
